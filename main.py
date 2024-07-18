@@ -3,8 +3,8 @@ from telebot import types
 from chk52 import *
 from bin import *
 
-admin_id = '6614163892'
-token = "6487569861:AAGt9xCKSwN_bCuLXEDVtJhjr-bAEd89HVc"
+admin_id = '6309252183'
+token = "7451787149:AAHYCTF6hBTrKUddOu9rOqn2Co-S6pfKRLI"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 stop_processes = {}
